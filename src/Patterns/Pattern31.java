@@ -19,7 +19,7 @@ public class Pattern31 {
 
             // Middle spaces
             if (i > 1) {
-                int spaceCount = 2 * i - 3;
+                int spaceCount = 4 * i - 4;
                 for (int j = 1; j <= spaceCount; j++) {
                     System.out.print(" ");
                 }
@@ -42,7 +42,7 @@ public class Pattern31 {
 
             // Middle spaces
             if (i > 1) {
-                int spaceCount = 2 * i - 3;
+                int spaceCount = 4 * i - 4;
                 for (int j = 1; j <= spaceCount; j++) {
                     System.out.print(" ");
                 }
